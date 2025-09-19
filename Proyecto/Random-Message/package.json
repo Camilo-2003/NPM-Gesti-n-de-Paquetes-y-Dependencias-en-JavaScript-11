@@ -1,0 +1,17 @@
+{
+  "name": "random-message",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Camilo Muñoz",
+  "license": "ISC",
+  "type": "commonjs",
+  "bin": {
+    "random-string-message": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
